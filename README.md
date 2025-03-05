@@ -1,4 +1,3 @@
-# AWS-Projects
 # 🤖 Banker Chatbot using Amazon Lex
 
 ## 📌 Overview
